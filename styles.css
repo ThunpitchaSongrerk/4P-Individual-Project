@@ -1,0 +1,98 @@
+body {
+    background-color: #f6f77e;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #35d445;
+    padding: 10px;
+    border: 20px groove lightgreen;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'PT Sans', sans-serif;
+    color: blue;
+}
+
+.navItem {
+    border: 7px double black;
+    background-color: #9ff07a;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Lora', serif;
+}
+
+.Info {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    color: #18b527;
+}
+
+.aboutMe {
+    border: 10px double black;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Lora', serif;
+    background-color: #9ff07a;
+}
+
+.posts {
+    border: 10px double black;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Lora', serif;
+    background-color: #9ff07a;
+}
+
+.friendsList {
+    border: 10px double black;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Lora', serif;
+    background-color: #9ff07a;
+}
+
+.height {
+    height: 200px;
+}
+
+.width {
+    width: 150px;
+}
+
+.border1 {
+    border: 5px dotted #49c1f5;
+}
+
+.border2 {
+    border: 15px double #77b2f2;
+}
+
+.border3 {
+    border: 15px double #77b2f2;
+}
+
+.border4 {
+	border: 15px groove #f5b5f3;
+}
+
+.info {
+    background-color: white;
+    border: 10px solid #ede321;
+}
+
+.black {
+	color: black;
+}
+
+.width2 {
+	width: 250px;
+}
