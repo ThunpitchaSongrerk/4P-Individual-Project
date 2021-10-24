@@ -14,10 +14,18 @@ h1 {
     display: flex;
     justify-content: space-around;
     font-family: 'PT Sans', sans-serif;
-    color: blue;
+    color: black;
 }
 
 .navItem {
+    border: 7px double black;
+    background-color: #9ff07a;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Lora', serif;
+}
+
+.navItem2 {
     border: 7px double black;
     background-color: #9ff07a;
     padding: 10px;
@@ -31,6 +39,20 @@ h1 {
     padding: 20px;
     margin: 10px;
     color: #18b527;
+}
+
+.mypets {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mypetsphoto {
+    padding: 20px;
+    margin: 10px;
+    border: 6px double blue;
+    width: 150px;
+    height: 200px;
+    display: none;
 }
 
 .aboutMe {
@@ -81,7 +103,7 @@ h1 {
 }
 
 .border4 {
-	border: 15px groove #f5b5f3;
+    border: 15px groove #f5b5f3;
 }
 
 .info {
@@ -89,10 +111,46 @@ h1 {
     border: 10px solid #ede321;
 }
 
+.info2 {
+    background-color: white;
+    border: 10px solid #ede321;
+}
+
+.info3 {
+    background-color: white;
+    border: 10px solid #ede321;
+}
+
+.info4 {
+    background-color: white;
+    border: 10px solid #ede321;
+}
+
+.info5 {
+    background-color: white;
+    border: 10px solid #ede321;
+}
+
 .black {
-	color: black;
+    color: black;
+}
+
+.black2 {
+    color: black;
+}
+
+.black3 {
+    color: black;
+}
+
+.black4 {
+    color: black;
 }
 
 .width2 {
-	width: 250px;
+    width: 250px;
+}
+
+.imageone {
+    display: none;
 }
